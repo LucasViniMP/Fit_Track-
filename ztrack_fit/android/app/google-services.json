@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "404355715471",
+    "firebase_url": "https://fittrack-486dd-default-rtdb.firebaseio.com",
+    "project_id": "fittrack-486dd",
+    "storage_bucket": "fittrack-486dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404355715471:android:1ddfae21e7acce5ae8fbfa",
+        "android_client_info": {
+          "package_name": "com.example.ztrack_fit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNx9oh4WC-2g6iXvKoT6cvSxWNB6Zfo0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
