@@ -54,7 +54,6 @@ class _LoginScreenState extends State<LoginScreen> {
     }
   }
 
-  // ── ESQUECEU A SENHA ──────────────────────────────────────────
   Future<void> _esqueceuSenha() async {
     final emailCtrl = TextEditingController(text: _emailController.text.trim());
 
